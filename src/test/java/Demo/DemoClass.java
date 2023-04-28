@@ -1,10 +1,9 @@
 package Demo;
 
 public class DemoClass {
-	public static void main()
+	public static void main(String[] args) 
 	{
 		System.out.println("1st commit");
-		
 	}
 
 }
